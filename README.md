@@ -1,10 +1,10 @@
 # QML Project with PyQt5
 
-# This a Simple Project done with PyQt5  to Show how to use Signal and Slot Of Qt and Python as an Backend instead of C++
+This a Simple Project done with PyQt5  to Show how to use Signal and Slot Of Qt and Python as an Backend instead of C++
 
 ![Screenshot](AppwithPyQt5.png)
 
-# To Run This Project first we need to install dependencies
+To Run This Project first we need to install dependencies
 
 1. Python 3
 2. PyQt5
